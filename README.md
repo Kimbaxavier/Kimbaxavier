@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Kimbaxavier/Kimbaxavier/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> <br><br> From backend development using Python, I'm passionate about discovering new things and using them to create high-quality solutions. Today, I study beginner-level back end focused on web development.</p>&nbsp;
+<p align="center"> <br><br> From backend development using Python, I am passionate about discovering new things and using them to create high-quality solutions. Today I study back-end with a focus on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Kimbaxavier&theme=radical&mode=weekly" />
